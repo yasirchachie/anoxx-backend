@@ -3,3 +3,6 @@ uploads/
 output/
 .env
 .DS_Store
+
+build/
+env.yaml
